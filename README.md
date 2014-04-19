@@ -1,8 +1,8 @@
-﻿test
+test
 ====
 * 日本語も入力できる
 
-```vb
+```c#
 	public void Foo()
 	{
 		Console.WriteLine("bar");
